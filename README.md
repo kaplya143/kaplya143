@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Данил 👋
 
-<!--
-**kaplya143/kaplya143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик программного обеспечения с опытом работы в JS, Python, PyCharm Community Edition, Git, Django, JQueary, HTML, CSS, VScode, postgreSQL,pgAdmin4, figma, SQL. 
 
-Here are some ideas to get you started:
+## 🌱 Текущие интересы
+- Разработка веб-приложений
+- Искусственный интеллект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Мои проекты
+- [Проект 1](https://github.com/kaplya143/ABeuaty) - Дипломная работа - Интернет магазин косметической продукции.
+
+## 📫 Как со мной связаться
+- [Telegram](@spamli143)
